@@ -1,6 +1,6 @@
 from django.shortcuts import render, redirect
-from basicapp.forms import ContactForm
-from basicapp.models import Contact
+from .forms import ContactForm
+from .models import Contact
 from django.conf import settings
 from django.core.mail import send_mail
 
