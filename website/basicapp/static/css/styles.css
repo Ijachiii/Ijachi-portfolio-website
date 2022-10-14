@@ -1,0 +1,62 @@
+body{
+  background-color: #E6E6E6;
+  color: #343A40;
+}
+
+.first-con{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+  position: relative;
+  margin-top: 3%
+}
+
+.navbar-brand{
+  font-size: 35px
+}
+
+.nav-item{
+  font-size: 20px;
+  margin-right: 50px;
+}
+
+.intro{
+  margin-top: 37%;
+  font-size: 52px;
+}
+
+.second-con{
+  padding-top: 80px;
+}
+
+h1{
+  text-align: center;
+}
+
+.third-con{
+  padding-top: 50px;
+}
+
+.form-group{
+  padding-left: 27%
+}
+
+.bottom-container{
+  background-color: #343A40;
+  color: #E6E6E6;
+  text-align: center;
+  margin-top: 50px;
+  height: 120px;
+}
+
+.links{
+  padding-top: 20px
+}
+.footer-link{
+  padding-right: 20px;
+  padding-left: 20px
+}
+
+.copyright{
+  padding-top: 20px;
+}
